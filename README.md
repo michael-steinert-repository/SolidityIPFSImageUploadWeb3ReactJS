@@ -21,9 +21,9 @@
 | truffle test | Running Test to check the Smart Contract |
 | truffle networks | Listing all Addresses of deployed Smart Contract |
 | Truffle Console | |
-| dVideo = await DVideo.deployed() | Getting the deployed Smart Contract as JavaScript Version |
-| dVideo | Printing out the deployed Smart Contract as JavaScript Version |
-| name = await dVideo.name() | Getting the public State Variable 'name' from the deployed Smart Contract |
+| decentragram = await Decentragram.deployed() | Getting the deployed Smart Contract as JavaScript Version |
+| decentragram | Printing out the deployed Smart Contract as JavaScript Version |
+| name = await decentragram.name() | Getting the public State Variable 'name' from the deployed Smart Contract |
 | name | Printing out the public State Variable |
 
 ## Dependencies
