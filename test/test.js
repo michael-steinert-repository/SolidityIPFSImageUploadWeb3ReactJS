@@ -4,7 +4,7 @@ require('chai')
     .use(require('chai-as-promised'))
     .should();
 
-/* [deployer, author, tipper] are the Account in this Testing Scenario */
+/* [deployer, author, tipper] are the Accounts in this Testing Scenario */
 /* It taking the first three Accounts from current Network - Ganache */
 contract('Decentragram', ([deployer, author, tipper]) => {
     let decentragram;
