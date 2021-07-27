@@ -51,3 +51,19 @@
 ### Event from calling Function uploadImage(_imgHash, _description)
 
 ![Event from calling Function uplaodImage](https://user-images.githubusercontent.com/29623199/121860173-e2905e80-ccf8-11eb-90bb-c57e33002bcb.JPG)
+
+## Solidity
+### Events
+* Events causes the Arguments to be stored in the Log of the Transaction
+* The Log of the Transaction exists as long as the Block in the Blockchain exists (in Theory forever)
+* Evetns log Changes into the Blockchain and make it true forever
+
+### Address
+* Every Account and Smart Contract has an Address
+* It is used to send and receive Ether from one Account to another
+
+### Mapping
+* Data Type used to store Associations that allow to get a Value for a corresponding Key
+
+### Require
+* Convenience Function that guarantees Vailidity of Conditions that cannot be detected before Execution
